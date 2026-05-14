@@ -53,19 +53,19 @@ Open three separate terminals in the same folder as `router\_v2.py`.
 Terminal 1:
 
 ```bash
-python router.py A
+python Router.py A
 ```
 
 Terminal 2:
 
 ```bash
-python router.py B
+python Router.py B
 ```
 
 Terminal 3:
 
 ```bash
-python router.py C
+python Router.py C
 ```
 
 Start all three routers within a few seconds of each other.
