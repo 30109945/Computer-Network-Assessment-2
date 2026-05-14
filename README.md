@@ -27,7 +27,7 @@ Each router runs as a separate Python process and communicates with the others u
 ## Files
 
 ```text
-router\_v2.py
+Router\_v2.py
 README.md
 ```
 
